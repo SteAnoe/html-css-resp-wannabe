@@ -140,6 +140,14 @@ img {
     .container{
         width: 100%;
     }
+    .why-us{
+        background-color: #222222;
+        margin-bottom: 0;
+        padding-top: 3em;
+    }
+    .steps{
+        margin: 0;
+    }
 }
 
 
